@@ -24,7 +24,7 @@ import scala.io.StdIn
  * ***
  * Read more: https://scala.zone/courses/scala/beginner/concepts/static
  */
-object _5_Types extends App {
+object _05_Types extends App {
   // Will not compile because we cannot subtract a string from a number
   // And this is known to Scala compiler! (static-check based on type).
 

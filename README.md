@@ -2,6 +2,8 @@
 
 This is another **learning-by-doing** repo for learning Scala 3.
 
+_I make some violations on purpose like the weird package names just to make sure what is the sequence of the contents_!
+
 # Should I start with Scala 2?
 I have an older repo to learn and teach Scala 2: [LearningScala](https://github.com/mohnoor94/LearningScala).
 I will try to start in this Scala 3 repo from scratch as much as I can, but in any way, you will find some contents
